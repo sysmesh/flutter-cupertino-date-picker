@@ -1,4 +1,4 @@
-# Flutter Cupertino Date Picker
+# Flutter Cupertino Date Picker 
 
 [[pub packages]](https://pub.dartlang.org/packages/flutter_cupertino_date_picker)
 | [中文说明](./README_zh-cn.md)
@@ -169,6 +169,7 @@ Support:
 - ko: Korea (KO)
 - it: Italian (IT)
 - hu: Hungarian(HU)
+- he: Hebrew(He)
 
 ##### Add more language
 
