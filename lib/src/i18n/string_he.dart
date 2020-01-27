@@ -1,4 +1,6 @@
-/// English (EN) United States
+part of 'date_picker_i18n.dart';
+
+/// Hebrew (he)
 class _StringsHe extends _StringsI18n {
   const _StringsHe();
 
